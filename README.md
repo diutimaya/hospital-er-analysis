@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Hospital ER Dashboard](dashboard/Hospital Emergency Room Analytics Dashboard.png)
+![Hospital ER Dashboard](dashboard/er_dashboard.png)
 
 ---
 
